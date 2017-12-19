@@ -1,7 +1,7 @@
 class Hanami < Formula
 
   hanami_version = "0.0.0"
-  sha256_src_darwin = "3e4f71fd2b56a86e81623b71de97550f961dc5b350bf95de8dde3ab327558b62"
+  sha256_src_darwin = "4f8d0bc10844c2dbb8519f0d498dbc8dcfacd86f52a2cba6901074849561a7d0"
   sha256_src_linux = "91393d8a7319cf27eba979bedcca8c92fe67064465a0088184c08a84ac8ca661"
   sha256_bash_completion = "2d449945b0f7419f7bcf1a2d415eeaabbc51164c423143a936b145093d79795d"
 
