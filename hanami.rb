@@ -20,7 +20,7 @@ class Hanami < Formula
 
   option "without-completions", "Disable bash completions"
   resource "bash_completion" do
-    url "https://releases.hanami.jp/hanami/contrib/completion/bash/hanami"
+    url "https://releases.usacloud.jp/hanami/contrib/completion/bash/hanami"
     sha256 sha256_bash_completion
   end
 
